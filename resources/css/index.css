@@ -1,0 +1,38 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('../img/Screenshot_1.png');
+  }
+  
+  h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .headOne {
+    background-color: mediumspringgreen;
+  }
+
+  .headTwo {
+    background-color: lightcoral;
+  }
+
+  .headThree {
+    background-color: skyblue;
+  }
+
+  .price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+  }
